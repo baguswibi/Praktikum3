@@ -1,8 +1,7 @@
-# menghitung luas dan keliling lingkaran menggunakan python
+    # menghitung luas dan keliling lingkaran menggunakan python
 
 Daftar isi :
 
-- [menghitung luas dan keliling lingkaran menggunakan python](#menghitung-luas-dan-keliling-lingkaran-menggunakan-python)
 - [flowchart mengeliling luas dan keliling lingkaran](#flowchart-mengeliling-luas-dan-keliling-lingkaran)
 - [kode dan hasil program menghitung luas dan keliling lingkaran](#kode-dan-hasil-program-menghitung-luas-dan-keliling-lingkaran)
 - [penjelasan](#penjelasan)
@@ -46,8 +45,10 @@ Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cuku
 
 **print ("Keliling Lingkaran \t= ",format(keliling,'.2f'))**
 
-**Luas Lingkaran          =  40.72**
+**Luas Lingkaran          =  452.389**
 
-**Keliling Lingkaran      =  22.62**
+**Keliling Lingkaran      =  75.398**
 
 Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.
+
+**sekian dan terimakasih.**
